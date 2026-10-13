@@ -1,0 +1,6 @@
+{
+  "name": "Wear Zone - Stitch & Designer",
+  "description": "Wear Zone is Karachi's premier men's clothing store & bespoke tailoring atelier at Dolmen Center, Tariq Road. Specializing in bespoke suits, designer kurtas, waistcoats, and wedding sherwanis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
